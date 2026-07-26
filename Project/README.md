@@ -59,7 +59,7 @@
 ## Ресурсы
 - [Датасеты](../resources/datasets/README.md)
 - [Учебники и статьи](../resources/textbooks/README.md)
-- [Python-библиотеки](../resources/python-libs/README.md)
+- [Python-библиотеки](../resources/software/python-libs/README.md)
 - Все материалы лабораторных работ
 
 ## Правила использования внешних ресурсов

@@ -1,100 +1,111 @@
-C:\USERS\ALEYN\ONEDRIVE\РАБОЧИЙ СТОЛ\ДЛЯ ДАНИЛЬЧЕНКО
-│   .gitignore
-│   CONTRIBUTING.md
-│   LICENSE.md
-│   README.md
-│   repository-tree.txt
-│
-├───data
-│       krm-v3.0.xlsx
-│       README.md
-│
-├───docs
-│       quality-checklist.md
-│       README.md
-│       rpd.md
-│
-├───Exam
-│   │   README.md
-│   └───attachments
-│           .gitkeep
-│
-├───M1-module-name
-│   │   kim-01-lab01.md
-│   │   kim-01-template.md
-│   │   kim-02-lab02.md
-│   │   README.md
-│   └───attachments
-│           .gitkeep
-│
-├───M2-module-name
-│   │   kim-01-template.md
-│   │   kim-03-lab03.md
-│   │   kim-04-lab04.md
-│   │   kim-05-lab05.md
-│   │   README.md
-│   └───attachments
-│           .gitkeep
-│
-├───M3-module-name
-│   │   kim-06-lab06.md
-│   │   kim-07-lab07.md
-│   │   README.md
-│   └───attachments
-│
-├───M4-module-name
-│   │   kim-08-lab08.md
-│   │   kim-09-lab09.md
-│   │   README.md
-│   └───attachments
-│
-├───methodical-guidelines
-│   │   README.md
-│   ├───students
-│   │       README.md
-│   ├───teachers-assessment
-│   │       README.md
-│   └───teachers-resources
-│           README.md
-│
-├───other
-│       README.md
-│
-├───Project
-│   │   README.md
-│   └───attachments
-│           .gitkeep
-│
-├───resources
-│   │   README.md
-│   ├───benchmarks
-│   │       README.md
-│   ├───datasets
-│   │       README.md
-│   ├───llm-prompts
-│   │       README.md
-│   ├───other
-│   │       README.md
-│   ├───papers
-│   │       README.md
-│   ├───problem-banks
-│   │       README.md
-│   ├───software
-│   │   └───python-libs
-│   │           README.md
-│   ├───test-banks
-│   │       README.md
-│   └───textbooks
-│           README.md
-│
-├───team
-│   │   README.md
-│   └───images
-│           .gitkeep
-│
-└───docs
-    └───source
-            B1_V_06Sovremennye_metody_kompyuternogo_zrenia_01_03_02_1.docx
-            Модель измерения ФОС для КЗ.docx
-            Расстановка баллов.docx
-            ФОС.docx
+.
+├── baselines/
+│   ├── baseline-lab01-viola-jones.ipynb
+│   ├── baseline-lab02-cnn-comparison.ipynb
+│   └── README.md
+├── cv_course/
+│   ├── __init__.py
+│   ├── data.py
+│   ├── metrics.py
+│   ├── README.md
+│   └── visualize.py
+├── data/
+│   ├── krm-v3.0.xlsx
+│   └── README.md
+├── docs/
+│   ├── source/
+│   │   ├── README.md
+│   │   ├── source-fos-measurement-model-cv.docx
+│   │   ├── source-fos.docx
+│   │   ├── source-rpd-b1-v-06-modern-computer-vision.docx
+│   │   └── source-scoring-allocation.docx
+│   ├── krm-roles.md
+│   ├── quality-checklist.md
+│   ├── README.md
+│   ├── rpd.md
+│   ├── scoring-model.md
+│   └── scoring-table.md
+├── Exam/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   └── README.md
+├── M1-module-name/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-01-lab01.md
+│   ├── kim-01-template.md
+│   ├── kim-02-lab02.md
+│   └── README.md
+├── M2-module-name/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-01-template.md
+│   ├── kim-03-lab03.md
+│   ├── kim-04-lab04.md
+│   ├── kim-05-lab05.md
+│   └── README.md
+├── M3-module-name/
+│   ├── kim-06-lab06.md
+│   ├── kim-07-lab07.md
+│   └── README.md
+├── M4-module-name/
+│   ├── kim-08-lab08.md
+│   ├── kim-09-lab09.md
+│   └── README.md
+├── methodical-guidelines/
+│   ├── students/
+│   │   └── README.md
+│   ├── teachers-assessment/
+│   │   └── README.md
+│   ├── teachers-resources/
+│   │   └── README.md
+│   └── README.md
+├── notebooks/
+│   ├── generate_all.py
+│   ├── lab01_viola_jones.ipynb
+│   ├── lab02_cnn_comparison.ipynb
+│   ├── lab03_yolo.ipynb
+│   ├── lab04_unet.ipynb
+│   ├── lab05_dcgan.ipynb
+│   ├── lab06_vit.ipynb
+│   ├── lab07_siamese.ipynb
+│   ├── lab08_multimodal.ipynb
+│   ├── lab09_crnn.ipynb
+│   └── README.md
+├── other/
+│   └── README.md
+├── resources/
+│   ├── benchmarks/
+│   │   └── README.md
+│   ├── datasets/
+│   │   └── README.md
+│   ├── llm-prompts/
+│   │   └── README.md
+│   ├── other/
+│   │   └── README.md
+│   ├── papers/
+│   │   └── README.md
+│   ├── problem-banks/
+│   │   └── README.md
+│   ├── software/
+│   │   └── python-libs/
+│   │       └── README.md
+│   ├── test-banks/
+│   │   └── README.md
+│   ├── textbooks/
+│   │   └── README.md
+│   └── README.md
+├── team/
+│   ├── images/
+│   │   └── .gitkeep
+│   └── README.md
+├── tests/
+│   ├── README.md
+│   ├── test_environment.py
+│   └── test_metrics.py
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.md
+├── repository-tree.txt
+└── requirements-course.txt

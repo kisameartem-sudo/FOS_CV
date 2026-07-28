@@ -1,4 +1,14 @@
-# Creative Commons Attribution 4.0 International
+# Лицензирование материалов репозитория
+
+## Область действия лицензии в репозитории
+
+Если в конкретном файле не указано иное, оригинальные тексты Markdown, учебные задания, таблицы, программный код и созданные авторами иллюстративные материалы репозитория распространяются по лицензии **Creative Commons Attribution 4.0 International (CC BY 4.0)** в той мере, в какой правообладатель вправе предоставить такую лицензию.
+
+Файлы `docs/source/*.docx` **не входят** в лицензируемый по CC BY 4.0 материал. Они являются архивными исходными документами с отдельно не подтверждённым статусом прав и не перелицензируются данным репозиторием. Подробности: [`docs/source/README.md`](docs/source/README.md).
+
+---
+
+## Creative Commons Attribution 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
